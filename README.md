@@ -6,7 +6,7 @@ This is a theme file for WordPress which works like a server if you want to use 
 
 ## Setup
 
-Install WordPress on your server. ( same directory to your Angular or React application )
+<a href="https://wordpress.org/download/">Download</a> & Install WordPress on your server. ( same directory to your Angular or React application )
 
 Download `wordpress-server` and upload it to themes directory.
 
