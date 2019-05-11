@@ -1,14 +1,14 @@
-# WordPress Server
+# WordPress Headless CMS
 
-WordPress server that prevents server theme access and customize api requests.
+WordPress headeless CMS that prevents server theme access and customize api requests.
 
-This is a theme file for WordPress which works like a server if you want to use it with front-end frameworks or library like **Anuglar / React**.
+This is a theme file for WordPress which is used for backend as a headless CMS if you want to use it with front-end frameworks or library like **Anuglar / React**.
 
 ## Setup
 
 <a href="https://wordpress.org/download/">Download</a> & Install WordPress on your server. ( same directory to your Angular or React application )
 
-Download `wordpress-server` and upload it to themes directory.
+Download `wordpress-headless-cms` and upload it to themes directory.
 
 Activate this theme.
 
@@ -16,7 +16,7 @@ Open `index.php` file and update the `header location url` to your own applicati
 
 Now use WordPress api url in your any application.
 
-## About WordPress Server
+## About WordPress Headless CMS
 
 This project is a WordPress theme that prevents user from accessing home url of api. It redirects to app url specified in header method.
 
