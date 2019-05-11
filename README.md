@@ -24,3 +24,7 @@ This project is a WordPress theme that prevents user from accessing home url of 
 - Enables post thumbnail option in WordPress post.
 - Adds post thumbnail in rest api json response. ( use field name `featured_image_src` or change from `functions.php` file )
 - Custom excerpt length.
+
+## WordPress Rest API
+
+https://developer.wordpress.org/rest-api/
