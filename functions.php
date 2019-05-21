@@ -5,7 +5,7 @@
  *
  * @package ashiishme
  *
- * @subpackage wp-server
+ * @subpackage wp-headless-cms
  */
 
 if(!function_exists('ashiishme_server_setup')):
